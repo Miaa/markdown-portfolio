@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Mia](https://www.amazon.com/photos/shared/U3eSIx6rRMKbvBy8h4yhmg.xeFIx0bvoSOSwrHD-xvANw)
